@@ -185,3 +185,14 @@ body {
 .nosotros-body p {
     font-weight: 200;
 }
+/* FOOTER */
+.bg-footer {
+    background-color: #214037;
+    color: #E2F2C9;
+}
+
+.bg-footer p {
+    padding: 1em;
+    margin: 0;
+    text-align: center;
+}
